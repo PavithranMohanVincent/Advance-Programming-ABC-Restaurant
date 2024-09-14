@@ -1,0 +1,14 @@
+abc\example\abcResturant\OfferServiceTest.class
+abc\example\abcResturant\CategoryServiceTest.class
+abc\example\abcResturant\FacilityServiceTest.class
+abc\example\abcResturant\Automation\ReservationTest.class
+abc\example\abcResturant\OrderServiceTest.class
+abc\example\abcResturant\EmailServiceTest.class
+abc\example\abcResturant\ProductServiceTest.class
+abc\example\abcResturant\QueryServiceTest.class
+abc\example\abcResturant\UserServiceTest.class
+abc\example\abcResturant\TableServiceTest.class
+abc\example\abcResturant\AbcResturantApplicationTests.class
+abc\example\abcResturant\BranchServiceTest.class
+abc\example\abcResturant\GalleryServiceTest.class
+abc\example\abcResturant\FeedbackServiceTest.class
